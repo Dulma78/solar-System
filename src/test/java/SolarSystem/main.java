@@ -13,5 +13,12 @@ public class main {
        Sun.name="panther";
        Sun.color="black";
        Sun.temp="12234134kelvin";
+
+
+       //********Planet2******
+        Planet2 xaros=new Planet2();
+        xaros.name="neoion";
+        xaros.color="blue";
+        xaros.size="1234566778km";
     }
 }
