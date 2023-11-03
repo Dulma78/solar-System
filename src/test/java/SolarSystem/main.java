@@ -20,5 +20,13 @@ public class main {
         xaros.name="neoion";
         xaros.color="blue";
         xaros.size="1234566778km";
+
+  //    Planet1
+  Planet1 plato=new Planet1();
+  plato.color="green";
+  plato.name="abracadabra";
+  plato.temp="1000000k";
+  plato.radius="800000km";
+
     }
 }
